@@ -1,1 +1,1 @@
-# Rust_practice
+[![Build Status](https://travis-ci.org/Okprime/Rust_practice.svg?branch=master)](https://travis-ci.org/creativcoder/logic_gates)
